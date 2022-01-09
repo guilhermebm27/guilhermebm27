@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Guilherme Bento
 
-- 🔭 Hoje trabalho como QA
-- 🌱 Trabalho com testes automatizados Web, Mobile e API.
+- 🔭 QA Enginner
+- 🌱 Integração, automatização de testes de sistemas webs, mobile e API, novas tecnologias.
 
 <div align="center">
   <a href="https://github.com/guilhermebm27">
